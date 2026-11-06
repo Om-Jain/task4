@@ -1,0 +1,16 @@
+{
+  "keras_model_bytes": 31278,
+  "tflite_model_bytes": 3140,
+  "size_reduction_percent": 89.96,
+  "class_names_in_output_order": [
+    "Green",
+    "Yellow",
+    "Red"
+  ],
+  "feature": "PM2.5",
+  "pm25_column": "Value",
+  "label_column": "label",
+  "test_accuracy": 0.9946524064171123,
+  "test_macro_precision": 0.8333333333333334,
+  "test_macro_recall": 0.9942028985507246
+}
